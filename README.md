@@ -4,7 +4,7 @@ Inspired by David Merfield's [randomColor.js](https://github.com/davidmerfield/r
 
 See the [demo and site](http://llllll.li/randomColor/) to know why does this exist.
 
-[![Demo](http://llllll.li/randomColor/repo_demo.gif)](http://llllll.li/randomColor)
+![](https://raw.githubusercontent.com/onevcat/RandomColorSwift/master/demo.png)
 
 ## Install
 
@@ -38,7 +38,7 @@ Clone this repo and throw the source files under `RandomColor` folder into your 
 ## Example
 
 ```swift
-import RandomColor
+import RandomColorSwift
 
 // Returns a UIColor or NSColor object for an attractive color
 let color = randomColor()
